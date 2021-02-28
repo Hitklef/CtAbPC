@@ -48,9 +48,9 @@ namespace S_koordinat
                     labelResultY.Text = "Sy = " + res[1].ToString();
                 }
             }
-            catch(Exception ex)
+            catch(ArgumentOutOfRangeException ex)
             {
-                MessageBox.Show("");
+                MessageBox.Show(ex.Message);
             }          
         }
 
