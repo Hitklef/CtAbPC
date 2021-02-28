@@ -1,0 +1,10 @@
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\obj\Debug\S_koordinat.csprojAssemblyReference.cache
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\obj\Debug\S_koordinat.Properties.Resources.resources
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\obj\Debug\S_koordinat.csproj.GenerateResource.cache
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\obj\Debug\S_koordinat.csproj.CoreCompileInputs.cache
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\bin\Debug\S_koordinat.exe.config
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\bin\Debug\S_koordinat.exe
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\bin\Debug\S_koordinat.pdb
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\obj\Debug\S_koordinat.exe
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\obj\Debug\S_koordinat.pdb
+D:\Vitaliy\Work\C#\Hitklef\CtAbPC\S_koordinat\obj\Debug\S_koordinat.CtAbPC.resources
