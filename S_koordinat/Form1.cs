@@ -48,9 +48,9 @@ namespace S_koordinat
                     labelResultY.Text = "Sy = " + res[1].ToString();
                 }
             }
-            catch(ArgumentOutOfRangeException ex)
+            catch
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show("Введите три или более точек координат");
             }          
         }
 
